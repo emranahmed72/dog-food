@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper{
+
+    
+    padding: 4%;
+    width: 80%;
+    margin: 4% 0 auto;
+    
+}
+.top{
+
+    height: 10%;
+    margin: 10% 0 auto;
+}
+
+.menu{
+   
+    border-bottom: 1px solid grey;
+    border-top: 1px solid grey;
+    
+}
+
+.menu ul{
+
+    list-style-type: none;
+}
+
+.menu ul li{
+
+    display: inline;
+    padding: 6%;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(236, 69, 9);
+}
+.menu ul li a:hover{
+    color: cornflowerblue;
+}
+
+.text-center{
+    text-align: center;
+}
+

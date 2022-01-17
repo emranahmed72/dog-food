@@ -1,0 +1,29 @@
+.food-dog{
+    background-image: url(../images/dog-food.jpg);
+    background-size: 1100px 600px;
+    background-repeat: no-repeat;
+    background-position:center;
+    padding: 20% 0;
+}
+
+.testimonials{
+    background-color: #ececec;
+    padding: 7% 0;
+}
+
+.testo-part{
+    text-align: center;
+    text-decoration: black;
+    font-family: cursive;
+    font-size: 20px;
+    
+}
+
+.footer-section {
+    padding: 2%;
+    text-align: center;
+    
+    background-color: #474e5d;
+    color: white;
+  }
+
